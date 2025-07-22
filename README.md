@@ -171,13 +171,3 @@ This comparison validates the FE model and demonstrates the feasibility of recre
 - Application of BEM for better sound radiation predictions
 
 ---
-
-## 📬 Contact
-
-📧 [pranav.duraivel@email.com](mailto:pranav.duraivel@email.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/pranav-duraivel)  
-🔬 GitHub repository maintained for academic reference and future development.
-
----
-
-
