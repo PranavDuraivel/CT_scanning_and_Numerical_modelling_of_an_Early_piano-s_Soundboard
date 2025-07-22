@@ -64,7 +64,7 @@ I = I_0 e^{-\mu d}
 - 102,312 total images, 11-hour scan duration
 
 <p align="center">
-  <img src="images/ct_scan_setup.png" width="500"/>
+  <img src="images/ct_scan_setup.png"/>
   <br/><i>CT scan setup for 1781 Ganer Square Piano</i>
 </p>
 
@@ -89,7 +89,7 @@ I = I_0 e^{-\mu d}
 - Equipment: Impact Hammer, PCB Accelerometers, LMS SignalCalc
 
 <p align="center">
-  <img src="images/testing_setup.png" width="500"/>
+  <img src="images/testing_setup.png"/>
   <br/><i>Experimental setup for mobility testing</i>
 </p>
 
@@ -103,7 +103,7 @@ I = I_0 e^{-\mu d}
 - Boundary conditions: Simply supported
 
 <p align="center">
-  <img src="images/mesh_convergence.png" width="500"/>
+  <img src="images/mesh_convergence.png"/>
   <br/><i>Mesh convergence study for eigenfrequencies</i>
 </p>
 
