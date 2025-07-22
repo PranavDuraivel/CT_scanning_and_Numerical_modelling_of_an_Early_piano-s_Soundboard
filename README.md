@@ -31,9 +31,9 @@ This project presents a comprehensive study of the vibroacoustic properties of a
 
 ### 📈 Lambert-Beer Law for CT Intensity
 
-\[
+```math
 I = I_0 e^{-\mu d}
-\]
+```
 
 - \( I_0 \): Initial beam intensity  
 - \( I \): Transmitted intensity  
