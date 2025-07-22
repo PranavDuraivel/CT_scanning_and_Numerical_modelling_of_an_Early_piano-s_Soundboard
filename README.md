@@ -76,7 +76,7 @@ I = I_0 e^{-\mu d}
 - Generated high-quality STL and mesh files for FE analysis
 
 <p align="center">
-  <img src="images/soundboard_cad.png" width="500"/>
+  <img src="images/soundboard_cad.png"/>
   <br/><i>Smoothed 3D CAD model of the soundboard</i>
 </p>
 
