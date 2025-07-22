@@ -109,6 +109,26 @@ I = I_0 e^{-\mu d}
 
 ---
 
+### 🎼 Experimental vs Numerical Mobility Comparison
+
+The plot below compares the **measured point mobility** from experimental impact testing with the **numerical mobility** simulated using COMSOL Multiphysics at two key locations:
+
+- **Top Plot**: Driving point mobility at **C4** (Middle C)
+- **Bottom Plot**: Driving point mobility at **C6** (High C)
+
+<p align="center">
+  <img src="images/NumericalvsMeasurement.png"/>
+  <br/><i>Figure 2: Measured vs Simulated Point Mobility at C4 and C6</i>
+</p>
+
+#### 📌 Observations:
+
+- The resonant peaks in both measurements align closely between 100 Hz and 2 kHz.
+- The numerical simulation slightly overestimates modal amplitudes at certain frequencies.
+- Higher frequency discrepancies may result from simplifications in boundary conditions and damping.
+
+This comparison validates the FE model and demonstrates the feasibility of recreating historical piano vibroacoustics numerically.
+
 ### 5. Optimisation and Validation
 
 - Compared **experimental** vs **numerical mobility**
