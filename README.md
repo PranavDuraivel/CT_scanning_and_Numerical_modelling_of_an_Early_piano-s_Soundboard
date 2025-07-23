@@ -3,9 +3,6 @@
 ![Ganer Square Piano](images/ganer_piano_scan.png)
 
 **Author:** Pranav Duraivel  
-**Dissertation:** MSc in Acoustical and Vibration Engineering  
-**University:** University of Southampton   
-**Date:** September 2024
 
 ---
 
@@ -76,10 +73,24 @@ I = I_0 e^{-\mu d}
 - Generated high-quality STL and mesh files for FE analysis
 
 <p align="center">
-  <img src="images/soundboard_cad.png"/>
+  <img src="images/piano_cad.png"/>
   <br/><i>Smoothed 3D CAD model of the soundboard</i>
 </p>
 
+<p align="center">
+  <img src="images/slice_cad.png"/>
+  <br/><i>Sliced view a) Top view b) bottom view</i>
+</p>
+
+<p align="center">
+  <img src="images/metal.png"/>
+  <br/><i>Seperating metal parts/artifacts</i>
+</p>
+
+<p align="center">
+  <img src="images/soundboard.png"/>
+  <br/><i>Piano's soundboard</i>
+</p>
 ---
 
 ### 3. Experimental Vibroacoustic Testing
