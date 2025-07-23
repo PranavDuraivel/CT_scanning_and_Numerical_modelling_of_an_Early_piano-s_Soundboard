@@ -136,7 +136,7 @@ I = I_0 e^{-\mu d}
 - Boundary conditions: Simply supported
 
 <p align="center">
-  <img src="images/mesh_convergence.png"/>
+  <img src="images/mesh_convergence.png" width="500"/>
   <br/><i>Mesh convergence study for eigenfrequencies</i>
 </p>
 
