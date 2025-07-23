@@ -32,10 +32,10 @@ This project presents a comprehensive study of the vibroacoustic properties of a
 I = I_0 e^{-\mu d}
 ```
 
-- \( I_0 \): Initial beam intensity  
-- \( I \): Transmitted intensity  
-- \( \mu \): Material attenuation coefficient  
-- \( d \): Material thickness
+- (```math I_0```): Initial beam intensity  
+- (```math I```): Transmitted intensity  
+- (```math \mu```): Material attenuation coefficient  
+- (```math d```): Material thickness
 
 ---
 
@@ -95,21 +95,21 @@ I = I_0 e^{-\mu d}
   <tr>
     <td align="center">
       <img src="images/piano_cad.png" width="500"/><br/>
-      <sub>Image 1 Caption</sub>
+      <sub>Smoothed 3D CAD model of the soundboard</sub>
     </td>
     <td align="center">
       <img src="images/slice_cad.png" width="500"/><br/>
-      <sub>Image 2 Caption</sub>
+      <sub>Sliced view a) Top view b) bottom view</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/metal.png" width="500"/><br/>
-      <sub>Image 3 Caption</sub>
+      <sub>Seperating metal parts/artifacts</sub>
     </td>
     <td align="center">
       <img src="images/soundboard.png" width="500"/><br/>
-      <sub>Image 4 Caption</sub>
+      <sub>Piano's soundboard</sub>
     </td>
   </tr>
 </table>
