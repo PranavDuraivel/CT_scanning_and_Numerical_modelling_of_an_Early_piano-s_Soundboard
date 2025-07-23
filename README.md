@@ -94,21 +94,21 @@ I = I_0 e^{-\mu d}
 <table>
   <tr>
     <td align="center">
-      <img src="images/piano_cad.png" width="200"/><br/>
+      <img src="images/piano_cad.png" width="500"/><br/>
       <sub>Image 1 Caption</sub>
     </td>
     <td align="center">
-      <img src="images/slice_cad.png" width="200"/><br/>
+      <img src="images/slice_cad.png" width="500"/><br/>
       <sub>Image 2 Caption</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/metal.png" width="200"/><br/>
+      <img src="images/metal.png" width="500"/><br/>
       <sub>Image 3 Caption</sub>
     </td>
     <td align="center">
-      <img src="images/soundboard.png" width="200"/><br/>
+      <img src="images/soundboard.png" width="500"/><br/>
       <sub>Image 4 Caption</sub>
     </td>
   </tr>
