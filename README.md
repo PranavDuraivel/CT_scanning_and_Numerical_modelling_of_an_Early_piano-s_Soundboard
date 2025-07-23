@@ -47,7 +47,7 @@ I = I_0 e^{-\mu d}
 
 - (ρᵢ): Density of element (i)  
 - (xᵢ): Average HU of voxels  
-- (A,B): Calibration constants (e.g., ( A ≈ 0.0008754 ), ( B ≈ 1 times 10^{-3} ))
+- (A,B): Calibration constants (e.g., ( A ≈ 0.0008754 ), ( B ≈ 1 times 10⁻³))
 
 ---
 
