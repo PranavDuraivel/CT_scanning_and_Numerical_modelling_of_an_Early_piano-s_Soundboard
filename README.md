@@ -1,6 +1,9 @@
 # 🎹 CT Scanning and Numerical Modelling of an Early Piano’s Soundboard
 
-![Ganer Square Piano](images/ganer_piano_scan.png)
+<p align="center">
+  <img src="images/ganer_piano_scan.png" width="800"/>
+  <br/><i>Ganer Square Piano</i>
+</p>
 
 **Author:** Pranav Duraivel  
 
