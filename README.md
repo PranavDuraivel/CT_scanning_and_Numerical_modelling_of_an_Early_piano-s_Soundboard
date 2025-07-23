@@ -28,26 +28,26 @@ This project presents a comprehensive study of the vibroacoustic properties of a
 
 ### 📈 Lambert-Beer Law for CT Intensity
 
-```math
+```math 
 I = I_0 e^{-\mu d}
 ```
 
-- (```math I_0```): Initial beam intensity  
-- (```math I```): Transmitted intensity  
-- (```math \mu```): Material attenuation coefficient  
-- (```math d```): Material thickness
+- (I₀): Initial beam intensity  
+- (I): Transmitted intensity  
+- (μ): Material attenuation coefficient  
+- (d): Material thickness
 
 ---
 
 ### 🔍 Density Estimation from Hounsfield Units
 
-\[
+```math 
 \rho_i = A \cdot x_i + B
-\]
+```
 
-- \( \rho_i \): Density of element \( i \)  
-- \( x_i \): Average HU of voxels  
-- \( A, B \): Calibration constants (e.g., \( A ≈ 0.0008754 \), \( B ≈ 1 \times 10^{-3} \))
+- (ρᵢ): Density of element (i)  
+- (xᵢ): Average HU of voxels  
+- (A,B): Calibration constants (e.g., ( A ≈ 0.0008754 ), ( B ≈ 1 times 10^{-3} ))
 
 ---
 
