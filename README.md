@@ -168,9 +168,7 @@ This comparison validates the FE model and demonstrates the feasibility of recre
 - Tuned (E), (ρ), and thickness using optimisation loops
   
 ```math
-\[
 \xi(\omega) = Y(\omega) F(\omega)
-\]
 ```
 
 - (ξ(ω)): Velocity response  
@@ -190,8 +188,6 @@ This comparison validates the FE model and demonstrates the feasibility of recre
 
 ## 📸 Gallery
 
-| Figure | Dashboard |
-|--------|-------------|
 <p align="center">
   <img src="images/s1.png"/>
   <br/><i>Mode shapes from COMSOL simulation</i>
@@ -200,22 +196,21 @@ This comparison validates the FE model and demonstrates the feasibility of recre
 <table>
   <tr>
     <td align="center">
-      <img src="s2.png" width="500"/><br/>
+      <img src="images/s2.png" width="500"/><br/>
     </td>
     <td align="center">
-      <img src="s3.png" width="500"/><br/>
+      <img src="images/s3.png" width="500"/><br/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="s4.png" width="500"/><br/>
+      <img src="images/s4.png" width="500"/><br/>
     </td>
     <td align="center">
-      <img src="s5.png" width="500"/><br/>
+      <img src="images/s5.png" width="500"/><br/>
     </td>
   </tr>
 </table>
----
 
 ## 💡 Future Work
 
