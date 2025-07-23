@@ -72,7 +72,7 @@ I = I_0 e^{-\mu d}
 - Software used: FIJI (ImageJ), Dragonfly 3D
 - Generated high-quality STL and mesh files for FE analysis
 
-<p align="center">
+<!--<p align="center">
   <img src="images/piano_cad.png"/>
   <br/><i>Smoothed 3D CAD model of the soundboard</i>
 </p>
@@ -90,8 +90,30 @@ I = I_0 e^{-\mu d}
 <p align="center">
   <img src="images/soundboard.png"/>
   <br/><i>Piano's soundboard</i>
-</p>
----
+</p> -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/piano_cad.png" width="200"/><br/>
+      <sub>Image 1 Caption</sub>
+    </td>
+    <td align="center">
+      <img src="images/slice_cad.png" width="200"/><br/>
+      <sub>Image 2 Caption</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/metal.png" width="200"/><br/>
+      <sub>Image 3 Caption</sub>
+    </td>
+    <td align="center">
+      <img src="images/soundboard.png" width="200"/><br/>
+      <sub>Image 4 Caption</sub>
+    </td>
+  </tr>
+</table>
+
 
 ### 3. Experimental Vibroacoustic Testing
 
