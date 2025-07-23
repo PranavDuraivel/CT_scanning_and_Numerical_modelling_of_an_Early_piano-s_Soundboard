@@ -165,15 +165,17 @@ This comparison validates the FE model and demonstrates the feasibility of recre
 ### 5. Optimisation and Validation
 
 - Compared **experimental** vs **numerical mobility**
-- Tuned \( E \), \( \rho \), and thickness using optimisation loops
-
+- Tuned (E), (ρ), and thickness using optimisation loops
+  
+```math
 \[
 \xi(\omega) = Y(\omega) F(\omega)
 \]
+```
 
-- \( \xi \): Velocity response  
-- \( Y(\omega) \): Mechanical admittance  
-- \( F(\omega) \): String force input
+- (ξ(ω)): Velocity response  
+- (Y(ω))): Mechanical admittance  
+- (F(ω))): String force input
 
 ---
 
@@ -188,13 +190,31 @@ This comparison validates the FE model and demonstrates the feasibility of recre
 
 ## 📸 Gallery
 
-| Figure | Description |
+| Figure | Dashboard |
 |--------|-------------|
-| ![](images/mode_shapes.png) | Mode shapes from COMSOL simulation |
-| ![](images/mobility_plot.png) | Experimental vs numerical mobility |
-| ![](images/radiation_plot.png) | Sound radiation response |
-| ![](images/key_recording.png) | Key recordings at bridge |
+<p align="center">
+  <img src="images/s1.png"/>
+  <br/><i>Mode shapes from COMSOL simulation</i>
+</p>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="s2.png" width="500"/><br/>
+    </td>
+    <td align="center">
+      <img src="s3.png" width="500"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="s4.png" width="500"/><br/>
+    </td>
+    <td align="center">
+      <img src="s5.png" width="500"/><br/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 💡 Future Work
