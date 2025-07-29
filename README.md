@@ -207,7 +207,7 @@ This comparison validates the FE model and demonstrates the feasibility of recre
   </tr>
   <tr>
     <td align="center">
-      <img src="images/s4.png" width="500"/><br/>
+      <img src="images/s10.png" width="500"/><br/>
     </td>
     <td align="center">
       <img src="images/s5.png" width="500"/><br/>
